@@ -1,0 +1,31 @@
+Anguilla anguilla	European eel
+Alosa spp.	Shad spp.
+Barbus barbus	Common barbel
+Gobio gobio	Gudgeon
+Abramis brama	Common bream
+Alburnus alburnus	Common bleak
+Blicca bjoerkna	Silver bream
+Leuciscus spp.	Dace spp.
+Phoxinus phoxinus	Common minnow
+Rutilus rutilus	Common roach
+Scardinius erythrophthalmus	Rudd
+Squalius cephalus	Chub
+Barbatula barbatula	Stone loach
+Tinca tinca	Tench
+Ctenopharyngodon idella	Grass carp
+Esox lucius	Northern pike
+Cottus gobio	European bullhead
+Gasterosteus aculeatus	Three-spined stickleback
+Gymnocephalus cernua	Ruffe
+Perca fluviatilis	European perch
+Sander lucioperca	Zander
+Platichthys flesus	European flounder
+Salmo salar	Atlantic salmon
+Salmo trutta	Brown trout
+Thymallus thymallus	Grayling
+Carassius carassius	Crucian carp
+Lampetra spp.	River/Brook lamprey
+Petromyzon marinus	Sea lamprey
+Oncorhynchus mykiss	Rainbow trout
+Pseudorasbora parva	Topmouth gudgeon
+Pungitius pungitius	Ninespine stickleback
